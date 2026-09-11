@@ -1,6 +1,6 @@
-## Hi Amigos 
+## Hi Colegas
 
-# Soy Enrique Carranza 
+# Soy Luis Enrique Carranza Hernandez 
 
 ## Me presento soy Luis Enrique Carranza Hernandez tengo 16 años, estudio Tecnico en Desarrollo De Software en el Instituto Nacional "Ernesto Flores".Actualmente estoy en primer Año pero en este transcurso de tiempo eh aprendido mucho sobre programacion gracias a mis maestros que nos enseñan de manera exelente.
 
